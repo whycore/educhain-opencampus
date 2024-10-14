@@ -1,6 +1,6 @@
 # Educhain Token Swap (Education Purpose)
 
-This script automates token swaps and liquidity provision on the Educhain network using Sailfish Finance. It allows users to swap USDC for SAIL or GRASP tokens and add liquidity to a pool of USDC and GRASP tokens. The script is built using Node.js and ethers.js, and it supports multiple wallet addresses for repetitive transactions.
+This script automates token swaps and liquidity provision on the Educhain network using Sailfish Finance. The script is built using Node.js and ethers.js, and it supports multiple wallet addresses for repetitive transactions.
 
 ## Prerequisites
 
